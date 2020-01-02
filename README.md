@@ -1,6 +1,8 @@
-# Typing Planet
+# :book: Typing Planet
 
-Practice typing in a fun way.
+<img src="screenshot/typing-planet.png">
+
+Practice typing in the fun way.
 
 ## :rocket: Summary
 
