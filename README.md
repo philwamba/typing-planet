@@ -2,10 +2,9 @@
 
 <img src="screenshot/typing-planet.png">
 
-Practice typing in the fun way.
-
 ## :rocket: Summary
 
+Practice typing in the fun way.
 
 ## :smile: About
 
